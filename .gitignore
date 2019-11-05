@@ -2,7 +2,8 @@
 # Windows, Mac OX, Python, and R
 # Add project specific ignore list below
 
-
+# File size too large
+transactions.csv
 
 ########################################################################
 # Windows image file caches
@@ -180,4 +181,3 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
-
