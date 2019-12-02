@@ -7,6 +7,7 @@
 - Save the answer as `exploration_<yourname>.ipynb` under the same folder
 - The data required are saved under [data_exploration_and_vis/data](./data_exploration_and_vis)
 
-### Task 2 (wip)
-Case: https://www.kaggle.com/uciml/german-credit
-Data used: https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29
+### Task 2
+- Read the instructions in the sample notebook [`loan_data.ipynb`](./data_exploration_and_vis/code/loan_data.ipynb) saved under [data_exploration_and_vis/code](./data_exploration_and_vis/code) to perform the task
+- Save the answer as `loan_data_<yourname>.ipynb` under the same folder
+- The data required are saved under [data_exploration_and_vis/data](./data_exploration_and_vis)
